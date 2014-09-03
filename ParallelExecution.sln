@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelExecution", "ParallelExecution\ParallelExecution.csproj", "{0DAD17E8-BA62-47B7-95F2-4AD957DEA4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Client|Any CPU = Client|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Server|Any CPU = Server|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DAD17E8-BA62-47B7-95F2-4AD957DEA4CF}.Client|Any CPU.ActiveCfg = Client|Any CPU
+		{0DAD17E8-BA62-47B7-95F2-4AD957DEA4CF}.Client|Any CPU.Build.0 = Client|Any CPU
+		{0DAD17E8-BA62-47B7-95F2-4AD957DEA4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAD17E8-BA62-47B7-95F2-4AD957DEA4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAD17E8-BA62-47B7-95F2-4AD957DEA4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAD17E8-BA62-47B7-95F2-4AD957DEA4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DAD17E8-BA62-47B7-95F2-4AD957DEA4CF}.Server|Any CPU.ActiveCfg = Server|Any CPU
+		{0DAD17E8-BA62-47B7-95F2-4AD957DEA4CF}.Server|Any CPU.Build.0 = Server|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
